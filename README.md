@@ -29,7 +29,7 @@ Amn_GenPasswd est un générateur de mots de passe sécurisé développé en **C
 ## 📖 Prérequis
 
 - Windows 10/11
-- .NET 6 ou version ultérieure
+- .NET 4.8 ou version ultérieure
 
 ## 🛠️ Technologies utilisées
 
